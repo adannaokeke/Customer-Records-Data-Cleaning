@@ -8,6 +8,9 @@ The dataset contains customer records with common data-quality issues such as in
 
 The goal of the project was to identify these issues, clean and standardize the data, validate the cleaned dataset, and create a simple summary report for decision-making.
 
+## Table of Contents
+
+
 ## Business Problem
 
 Small businesses may collect customer information in different formats, which can lead to inaccurate, inconsistent, or duplicated records.
