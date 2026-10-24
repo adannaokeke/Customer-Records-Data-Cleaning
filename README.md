@@ -1,6 +1,6 @@
 # Customer Records Data Entry & Cleaning Project
 
-## Project Overview
+## Project Overview.
 
 This project demonstrates a practical workflow for entering, cleaning, validating, organizing, and reporting customer data using Microsoft Excel.
 
